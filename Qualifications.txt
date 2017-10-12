@@ -1,0 +1,75 @@
+Nmae: Fahim Ahmed
+
+Student ID: 1305053
+
+Institute: Bangladesh University of Engineering and Technology
+
+Level-4 Term-1
+
+CGPA: 3.41
+
+Projects:
+
+1. Surveillance Drone (2017, Level-3 Term-2)
+	Project Partner: Mirza Masfiqur Rahman.
+	A surveillance  drone that can be controlled by bluetooth from android/ios smartphone.
+	Also it can detect obstacles.
+	Hardware: Atmega32,HC-05 bluetooth module,camera, sonar sensor.
+	Software: Atmel Studio, xtreme burner.
+	Language: C .
+	
+2. Online Doctor Appointment (2017, Level-3 Term-2)
+	Project Partner: Mirza Masfiqur Rahman.
+	A online website to make appointment with qualified doctors.
+	Both doctors and patients have registered accounts .
+	Location based service.
+	Framework: Django.
+	Database: SQLite.
+	Language: Python.
+	Software: PyCharm.
+	
+3. Nachos (Not Another Completely Heuristic Operating System) (2017, Level-3 Term-2)
+	Implementation of Memory Management, Multithreading, Inter Process Communication ect 
+	on NACHOS operating system.
+	Language: C++.
+	
+4. Network Simulation (2017, Level-3 Term-2)
+	Simulation , modification and performence measurement of two wireless networks
+	IEEE 802.11(Static) and IEEE 802.15.4(Mobile)
+	Software: Network Simulator-2 (NS2)
+	Protocol: DSDV,AODV
+	Language: C++
+	
+5. Smartphone app Based Blood Donation Management System (2016, Level-3 Term-1)
+	Completed requirement analysis, Idea generation on android app based blood donation
+	system.
+	5 member project.
+	
+6. Media Player (2015,  Level-2 Term-1)
+	Project Partner: Mirza Masfiqur Rahman.
+	A music and video player that can paly multiple number of media file simultaneously.
+	Online stream any music or video.
+	Additional media downloader.
+	Smart memory and CPU consumption.
+	Language: Java.
+	Software: Intellij.
+	
+7. Spyware (2015, Level-1 Term-2)
+	Project Partner: Mirza Masfiqur Rahman.
+	A spyware that collects valuable information like: username,app history, directory search
+	from a pc and can spoil any file specified.
+	Language: C.
+	
+8. Using Java Servlet and Oracle Sql database, Number-2 (Online Doctor Appointment) project was 
+	completed at Level-3 Term-1
+	Project Partner: Mirza Masfiqur Rahman.
+	
+9. Compiler (2016, Level-3 Term-1)
+	Implemented lexical analysis, parsing, code generation of a simple compiler.
+	Software: Yacc, Bison
+	
+10. Current Work (2017,Thesis): Working on improving robustness of various pdf classifiers against
+	pdf malwares.
+	Thesis Supervisor:  Dr. Anindya Iqbal, Assistent Professor, BUET.
+	
+Additional Skills on Arduino, Microcontroller, Sensors, Robotics.
